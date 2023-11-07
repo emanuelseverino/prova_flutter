@@ -1,3 +1,9 @@
+# Olá! Eu sou Emanuel Severino
+
+- Trabalho como desenvolvedor de Aplicativos
+  - Flutter(Dart)
+  - Django(Python)
+
 # Prova Flutter
 
 Projeto desenvolvido para concorrer a uma vaga de programador.
