@@ -8,7 +8,7 @@
 
 Projeto desenvolvido para concorrer a uma vaga de programador.
 
-## Getting Started
+## Contato
 
 De longe um dos melhores desafios que já encontrei.
 
